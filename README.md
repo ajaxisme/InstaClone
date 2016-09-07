@@ -1,2 +1,0 @@
-# InstaClone
-An Image Gallery
